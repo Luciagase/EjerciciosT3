@@ -30,5 +30,3 @@ class Torres:
             print("Torre 2:", self.torre2)
             print("Torre 3:", self.torre3)
             self._resolver(n-1, auxiliar, origen, destino)#vuelve a llamar a _resolver para mover los discos de la torre auxiliar a la torre de destino.
-
-    
