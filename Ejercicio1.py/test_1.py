@@ -1,5 +1,5 @@
 import unittest
-from Ej import Torres
+from Ej1 import Torres
 
 class TestTorresDeHanoi(unittest.TestCase):
     def test_constructor(self):
